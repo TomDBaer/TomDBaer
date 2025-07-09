@@ -1,5 +1,4 @@
-Hey, I'm Tom  
-watch me go for that backend!
+Hey, I'm Tom 😁
 
 <!---
 TomDBaer/TomDBaer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
